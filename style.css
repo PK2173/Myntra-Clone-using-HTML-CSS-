@@ -98,3 +98,9 @@ footer{
     background-color: bisque;
     cursor: pointer;
 }
+
+.navicones{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
